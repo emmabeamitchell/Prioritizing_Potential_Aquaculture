@@ -237,7 +237,7 @@ tm_shape(depth) +
 
 #### Our inputs are the maximum and minimum sea surface temperatures and depths needed for that species, as well as the name of the species. Our outputs will be a map showing suitable locations for that species by EEZ.
 
-* There are some steps from our oyster workflow that we will skip here, because we already have the necessary information from the previous workflow. All data we are using is the same, so checks like CRSs are omitted. 
+*There are some steps from our oyster workflow that we will skip here, because we already have the necessary information from the previous workflow. All data we are using is the same, so checks like CRSs are omitted.*
 ```{r}
 #| code-fold: true
 #| collapse: true
